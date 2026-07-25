@@ -2,19 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=300&section=header&text=Aashish%20Kumar&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20UI/UX%20Designer&descAlignY=51&descSize=13"/>
 
-<!-- Social Links at Top -->
-<div align="center" style="margin: 30px 0;">
-  <a href="https://aashish1a.netlify.app/" style="margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aashish1a/" style="margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/Aashish1A" style="margin: 0 10px;" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</div>
-
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
