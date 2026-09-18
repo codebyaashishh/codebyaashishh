@@ -12,7 +12,7 @@
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aashish1a&label=Profile%20views&color=667eea&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aashish1a?label=Followers&style=social" alt="GitHub Badge">
+  <img src="https://img.shields.io/github/followers/codebyaashishh?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
 </div>
@@ -59,12 +59,12 @@
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aashish1a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashish1a&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebyaashishh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyaashishh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aashish1a/aashish1a/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/codebyaashishh/codebyaashishh/output/github-contribution-grid-snake.svg" />
 </div>
